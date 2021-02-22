@@ -1,2 +1,2 @@
 # Hello-World
-Just learning
+Just learning and absorbing
